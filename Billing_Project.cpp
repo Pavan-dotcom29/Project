@@ -31,9 +31,9 @@ m:
     cout<<"************Super billing market*****************  ";
     cout<<"\t\t\t\t                                    \n";
     cout<<"\t\t\t\t____________________________________\n";
-    cout<<"\t\t\t\t|     1)Admin                       |\n";
-    cout<<"\t\t\t\t|     2)Buyer                       |\n";
-    cout<<"\t\t\t\t|     3)Exit                       |\n";
+    cout<<"\t\t\t\t|     1)admin                       |\n";
+    cout<<"\t\t\t\t|     2)buyer                       |\n";
+    cout<<"\t\t\t\t|     3)exit                      |\n";
     cout<<"\n\t\t\t  please select ";
     cin>>choice;
 
