@@ -36,9 +36,9 @@ int main()
 	string Name;
 	string Address;
 	int totalItems;
-	cout<< "Enter your Name \t";
+	cout<< "Enter your name \t";
 	cin >>Name;
-	cout<< "Enter your Address \t";
+	cout<< "Enter your address \t";
 	cin >>Address;
 	cout<< "Enter your TotalItems \t";
 	cin >>totalItems;
